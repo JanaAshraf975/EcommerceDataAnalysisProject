@@ -183,7 +183,8 @@ Brazilian-Ecommerce/
 ├── .gitignore
 └── README.md
 
-Note: The structure above is a suggested organization.
+```
+##Note: The structure above is a suggested organization.
 Folder and file names should match the actual project files.
 
 🚀 Skills Demonstrated
